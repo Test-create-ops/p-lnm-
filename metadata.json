@@ -1,0 +1,5 @@
+{
+  "name": "Invoicer - Bill Manager",
+  "description": "An intelligent bill management application that uses AI to extract information from uploaded bill photos, tracks payment status, and provides a smart assistant for complex financial queries.",
+  "requestFramePermissions": []
+}
